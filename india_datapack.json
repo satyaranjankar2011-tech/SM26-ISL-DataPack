@@ -265,23 +265,17 @@
     }
   ],
 
-  "ClubData": [
-    {
-      "ID": 1101,
-      "Name": "India National Team",
-      "ShortName": "IND",
-      "LeagueID": 101,  
-      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Indian_team.jpg"
-    }
-  ],
+  "NationalTeamData": [
+  {
+    "ID": 1101,
+    "Name": "India",
+    "ShortName": "IND",
+    "ContinentID": 3, 
+    "RegionID": 31,
+    "ImageURL": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+  }
+]
 
-  "LeagueData": [
-    {
-      "ID": 101,
-      "Name": "India",
-      "ImageURL": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
-    }
-  ],
 
   "CupData": [
     {
