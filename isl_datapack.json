@@ -1,1 +1,29 @@
+{
+  "league": {
+    "id": 1001,
+    "name": "Indian Super League",
+    "nation": "India",
+    "level": 1,
+    "teams": [
+      2001, 2002, 2003, 2004, 2005, 2006,
+      2007, 2008, 2009, 2010, 2011, 2012
+    ]
+  },
 
+  "clubs": [
+    { "id": 2001, "name": "ATK Mohun Bagan", "short": "ATKMB" },
+    { "id": 2002, "name": "Bengaluru FC", "short": "BFC" },
+    { "id": 2003, "name": "Chennaiyin FC", "short": "CFC" },
+    { "id": 2004, "name": "Mumbai City FC", "short": "MCFC" },
+    { "id": 2005, "name": "Kerala Blasters", "short": "KBFC" },
+    { "id": 2006, "name": "FC Goa", "short": "FCG" },
+    { "id": 2007, "name": "Hyderabad FC", "short": "HFC" },
+    { "id": 2008, "name": "Odisha FC", "short": "OFC" },
+    { "id": 2009, "name": "Jamshedpur FC", "short": "JFC" },
+    { "id": 2010, "name": "East Bengal FC", "short": "EBFC" },
+    { "id": 2011, "name": "NorthEast United", "short": "NEUFC" },
+    { "id": 2012, "name": "Punjab FC", "short": "PFC" }
+  ],
+
+  "players": []
+}
