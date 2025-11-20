@@ -1,387 +1,251 @@
 {
-  "datapack": {
-    "name": "Indian Super League - Full Data Pack",
-    "version": "1.0.0",
-    "game_compatibility": ["SM26"],
-    "author": "Generated-by-ChatGPT",
-    "description": "Full ISL pack (teams, squads, basic finances & staff). Upload to GitHub and paste raw URL into Soccer Manager 26.",
-    "created_at": "2025-11-20"
-  },
-  "leagues": [
+  "teams": [
     {
-      "id": "isl_2025",
-      "name": "Indian Super League",
-      "country": "India",
-      "level": 1,
-      "teams": [
-        "mohun_bagan",
-        "mumbai_city",
-        "jamshedpur",
-        "kerala_blasters",
-        "east_bengal",
-        "hyderabad_fc",
-        "odisha_fc",
-        "bengaluru_fc",
-        "fc_goa",
-        "northeast_united",
-        "chennaiyin_fc",
-        "punjab_fc"
-      ],
-      "rules": {
-        "season_start_month": 10,
-        "season_end_month": 4,
-        "match_week_size": 1
-      }
-    }
-  ],
-  "clubs": [
-    {
-      "id": "mohun_bagan",
-      "name": "Mohun Bagan Super Giant",
-      "stadium": "Vivekananda Yuba Bharati Krirangan",
-      "stadium_capacity": 85000,
-      "balance": 35000000,
-      "squad_size": 22,
-      "reputation": 85,
-      "coach": {
-        "name": "Head Coach",
-        "quality": 78
-      }
-    },
-    {
-      "id": "mumbai_city",
-      "name": "Mumbai City FC",
-      "stadium": "Mumbai Football Arena",
-      "stadium_capacity": 6000,
-      "balance": 30000000,
-      "squad_size": 22,
-      "reputation": 82,
-      "coach": {
-        "name": "Head Coach",
-        "quality": 76
-      }
-    },
-    {
-      "id": "jamshedpur",
-      "name": "Jamshedpur FC",
-      "stadium": "JRD Tata Sports Complex",
-      "stadium_capacity": 24000,
-      "balance": 22000000,
-      "squad_size": 22,
-      "reputation": 75,
-      "coach": {
-        "name": "Head Coach",
-        "quality": 74
-      }
-    },
-    {
-      "id": "kerala_blasters",
-      "name": "Kerala Blasters FC",
-      "stadium": "Jawaharlal Nehru Stadium (Kochi)",
-      "stadium_capacity": 65000,
-      "balance": 26000000,
-      "squad_size": 24,
-      "reputation": 80,
-      "coach": {
-        "name": "Head Coach",
-        "quality": 75
-      }
-    },
-    {
-      "id": "east_bengal",
-      "name": "SC East Bengal",
-      "stadium": "Salt Lake Stadium",
-      "stadium_capacity": 85000,
-      "balance": 18000000,
-      "squad_size": 23,
-      "reputation": 73,
-      "coach": {
-        "name": "Head Coach",
-        "quality": 72
-      }
-    },
-    {
-      "id": "hyderabad_fc",
-      "name": "Hyderabad FC",
-      "stadium": "G.M.C Balayogi Athletic Stadium",
-      "stadium_capacity": 30000,
-      "balance": 20000000,
-      "squad_size": 22,
-      "reputation": 74,
-      "coach": {
-        "name": "Head Coach",
-        "quality": 73
-      }
-    },
-    {
-      "id": "odisha_fc",
-      "name": "Odisha FC",
-      "stadium": "Kalinga Stadium",
-      "stadium_capacity": 15000,
-      "balance": 16000000,
-      "squad_size": 21,
-      "reputation": 70,
-      "coach": {
-        "name": "Head Coach",
-        "quality": 71
-      }
-    },
-    {
-      "id": "bengaluru_fc",
-      "name": "Bengaluru FC",
-      "stadium": "Sree Kanteerava Stadium",
-      "stadium_capacity": 25000,
-      "balance": 24000000,
-      "squad_size": 23,
-      "reputation": 78,
-      "coach": {
-        "name": "Head Coach",
-        "quality": 76
-      }
-    },
-    {
-      "id": "fc_goa",
-      "name": "FC Goa",
-      "stadium": "Fatorda Stadium",
-      "stadium_capacity": 19000,
-      "balance": 21000000,
-      "squad_size": 22,
-      "reputation": 77,
-      "coach": {
-        "name": "Head Coach",
-        "quality": 75
-      }
-    },
-    {
-      "id": "northeast_united",
-      "name": "NorthEast United FC",
-      "stadium": "Indira Gandhi Athletic Stadium",
-      "stadium_capacity": 25000,
-      "balance": 14000000,
-      "squad_size": 21,
-      "reputation": 66,
-      "coach": {
-        "name": "Head Coach",
-        "quality": 69
-      }
-    },
-    {
-      "id": "chennaiyin_fc",
-      "name": "Chennaiyin FC",
-      "stadium": "Jawaharlal Nehru Stadium (Chennai)",
-      "stadium_capacity": 40000,
-      "balance": 15000000,
-      "squad_size": 22,
-      "reputation": 72,
-      "coach": {
-        "name": "Head Coach",
-        "quality": 70
-      }
-    },
-    {
-      "id": "punjab_fc",
-      "name": "Punjab FC",
-      "stadium": "Tau Devi Lal Stadium",
-      "stadium_capacity": 12000,
-      "balance": 13000000,
-      "squad_size": 21,
-      "reputation": 68,
-      "coach": {
-        "name": "Head Coach",
-        "quality": 68
-      }
-    }
-  ],
-  "players": [
-    {
-      "id": "player_mb_1",
-      "name": "Liston Colaco",
-      "club": "mohun_bagan",
-      "position": "ST",
-      "age": 25,
-      "nationality": "India",
-      "value": 1200000,
-      "wage": 4500,
-      "attributes": {"pace":17,"shooting":15,"passing":12,"dribbling":16,"defense":7,"physical":12},
-      "preferred_foot": "Right"
-    },
-    {
-      "id": "player_mb_2",
-      "name": "Brandon Fernandes",
-      "club": "mohun_bagan",
-      "position": "AM",
-      "age": 29,
-      "nationality": "India",
-      "value": 900000,
-      "wage": 4200,
-      "attributes": {"pace":14,"shooting":13,"passing":16,"dribbling":15,"defense":9,"physical":11},
-      "preferred_foot": "Right"
-    },
-    {
-      "id": "player_mc_1",
-      "name": "Rahul Bheke",
-      "club": "mumbai_city",
-      "position": "RB",
-      "age": 35,
-      "nationality": "India",
-      "value": 350000,
-      "wage": 3000,
-      "attributes": {"pace":12,"shooting":8,"passing":12,"dribbling":10,"defense":14,"physical":13},
-      "preferred_foot": "Right"
-    },
-    {
-      "id": "player_jt_1",
-      "name": "Vinit Rai",
-      "club": "jamshedpur",
-      "position": "CM",
-      "age": 26,
-      "nationality": "India",
-      "value": 600000,
-      "wage": 3800,
-      "attributes": {"pace":13,"shooting":10,"passing":14,"dribbling":11,"defense":13,"physical":12},
-      "preferred_foot": "Right"
-    },
-    {
-      "id": "player_kb_1",
-      "name": "Vincy Barretto",
-      "club": "kerala_blasters",
-      "position": "RM",
-      "age": 25,
-      "nationality": "India",
-      "value": 480000,
-      "wage": 3200,
-      "attributes": {"pace":16,"shooting":11,"passing":12,"dribbling":15,"defense":9,"physical":10},
-      "preferred_foot": "Right"
-    },
-    {
-      "id": "player_eb_1",
-      "name": "Nerijus Valskis",
-      "club": "east_bengal",
-      "position": "ST",
-      "age": 36,
-      "nationality": "Lithuania",
-      "value": 250000,
-      "wage": 3400,
-      "attributes": {"pace":12,"shooting":15,"passing":9,"dribbling":10,"defense":6,"physical":14},
-      "preferred_foot": "Right"
-    },
-    {
-      "id": "player_hy_1",
-      "name": "Aridane Santana",
-      "club": "hyderabad_fc",
-      "position": "ST",
-      "age": 35,
-      "nationality": "Spain",
-      "value": 300000,
-      "wage": 3600,
-      "attributes": {"pace":12,"shooting":14,"passing":10,"dribbling":11,"defense":6,"physical":15},
-      "preferred_foot": "Right"
-    },
-    {
-      "id": "player_od_1",
-      "name": "Jerry Mawihmingthanga",
-      "club": "odisha_fc",
-      "position": "LM",
-      "age": 27,
-      "nationality": "India",
-      "value": 420000,
-      "wage": 3100,
-      "attributes": {"pace":15,"shooting":11,"passing":12,"dribbling":14,"defense":8,"physical":10},
-      "preferred_foot": "Right"
-    },
-    {
-      "id": "player_bg_1",
-      "name": "Sunil Chhetri",
-      "club": "bengaluru_fc",
-      "position": "ST",
-      "age": 40,
-      "nationality": "India",
-      "value": 200000,
-      "wage": 5000,
-      "attributes": {"pace":12,"shooting":14,"passing":13,"dribbling":12,"defense":8,"physical":11},
-      "preferred_foot": "Right"
-    },
-    {
-      "id": "player_fg_1",
-      "name": "Igor Angulo",
-      "club": "fc_goa",
-      "position": "ST",
-      "age": 36,
-      "nationality": "Spain",
-      "value": 280000,
-      "wage": 3500,
-      "attributes": {"pace":11,"shooting":15,"passing":10,"dribbling":11,"defense":7,"physical":13},
-      "preferred_foot": "Right"
-    },
-    {
-      "id": "player_ne_1",
-      "name": "Lallianzuala Chhangte",
-      "club": "northeast_united",
-      "position": "RM",
-      "age": 26,
-      "nationality": "India",
-      "value": 900000,
-      "wage": 4300,
-      "attributes": {"pace":18,"shooting":13,"passing":13,"dribbling":16,"defense":9,"physical":12},
-      "preferred_foot": "Right"
-    },
-    {
-      "id": "player_ch_1",
-      "name": "Rahul Bheke",
-      "club": "chennaiyin_fc",
-      "position": "CB",
-      "age": 35,
-      "nationality": "India",
-      "value": 300000,
-      "wage": 3000,
-      "attributes": {"pace":11,"shooting":6,"passing":12,"dribbling":8,"defense":15,"physical":14},
-      "preferred_foot": "Right"
-    },
-    {
-      "id": "player_pu_1",
-      "name": "Nongdamba Naorem",
-      "club": "punjab_fc",
-      "position": "LM",
-      "age": 25,
-      "nationality": "India",
-      "value": 400000,
-      "wage": 3000,
-      "attributes": {"pace":16,"shooting":10,"passing":13,"dribbling":15,"defense":8,"physical":10},
-      "preferred_foot": "Left"
-    },
+      "id": 1101,
+      "name": "India",
+      "shortName": "India",
+      "nickname": "Blue Tigers",
+      "type": "national",
+      "fifaCode": "IND",
+      "players": [
+        {
+          "id": 1101001,
+          "name": "Gurpreet Singh Sandhu",
+          "position": "GK",
+          "role": "Goalkeeper",
+          "club": "Bengaluru FC",
+          "dob": "1992-02-03",
+          "overall": 73
+        },
+        {
+          "id": 1101002,
+          "name": "Amrinder Singh",
+          "position": "GK",
+          "role": "Goalkeeper",
+          "club": "Odisha FC",
+          "dob": "1993-05-27",
+          "overall": 70
+        },
+        {
+          "id": 1101003,
+          "name": "Gurmeet Singh",
+          "position": "GK",
+          "role": "Goalkeeper",
+          "club": "NorthEast United",
+          "dob": "1999-12-03",
+          "overall": 69
+        },
 
-    {
-      "id": "player_generic_gk_1",
-      "name": "GK - Indian",
-      "club": "mumbai_city",
-      "position": "GK",
-      "age": 27,
-      "nationality": "India",
-      "value": 180000,
-      "wage": 2500,
-      "attributes": {"diving":13,"handling":12,"kicking":12,"reflexes":13,"speed":9,"passing":10},
-      "preferred_foot": "Right"
-    },
-    {
-      "id": "player_generic_2",
-      "name": "Young Prospect",
-      "club": "kerala_blasters",
-      "position": "CM",
-      "age": 19,
-      "nationality": "India",
-      "value": 90000,
-      "wage": 800,
-      "attributes": {"pace":13,"shooting":10,"passing":12,"dribbling":12,"defense":11,"physical":9},
-      "preferred_foot": "Right"
+        {
+          "id": 1101101,
+          "name": "Rahul Bheke",
+          "position": "DF",
+          "role": "Right Back",
+          "club": "Bengaluru FC",
+          "dob": "1990-12-06",
+          "overall": 69
+        },
+        {
+          "id": 1101102,
+          "name": "Asish Rai",
+          "position": "DF",
+          "role": "Right Back",
+          "club": "Mohun Bagan",
+          "dob": "1999-01-27",
+          "overall": 67
+        },
+        {
+          "id": 1101103,
+          "name": "Boris Singh Thangjam",
+          "position": "DF",
+          "role": "Right Back",
+          "club": "FC Goa",
+          "dob": "2000-01-03",
+          "overall": 66
+        },
+        {
+          "id": 1101104,
+          "name": "Sandesh Jhingan",
+          "position": "DF",
+          "role": "Centre Back",
+          "club": "FC Goa",
+          "dob": "1993-07-21",
+          "overall": 72
+        },
+        {
+          "id": 1101105,
+          "name": "Hmingthanmawia",
+          "position": "DF",
+          "role": "Centre Back",
+          "club": "Mumbai City",
+          "dob": "2000-05-31",
+          "overall": 67
+        },
+        {
+          "id": 1101106,
+          "name": "Mehtab Singh",
+          "position": "DF",
+          "role": "Centre Back",
+          "club": "Mumbai City",
+          "dob": "1998-06-05",
+          "overall": 68
+        },
+        {
+          "id": 1101107,
+          "name": "Chinglensana Singh",
+          "position": "DF",
+          "role": "Centre Back",
+          "club": "Bengaluru FC",
+          "dob": "1996-11-23",
+          "overall": 68
+        },
+        {
+          "id": 1101108,
+          "name": "Subhasish Bose",
+          "position": "DF",
+          "role": "Left Back",
+          "club": "Mohun Bagan",
+          "dob": "1995-08-18",
+          "overall": 69
+        },
+        {
+          "id": 1101109,
+          "name": "Naorem Roshan Singh",
+          "position": "DF",
+          "role": "Left Back",
+          "club": "Bengaluru FC",
+          "dob": "1999-02-02",
+          "overall": 68
+        },
+
+        {
+          "id": 1101201,
+          "name": "Suresh Singh Wangjam",
+          "position": "MF",
+          "role": "Defensive Midfielder",
+          "club": "Bengaluru FC",
+          "dob": "2000-08-07",
+          "overall": 70
+        },
+        {
+          "id": 1101202,
+          "name": "Lalengmawia (Apuia)",
+          "position": "MF",
+          "role": "Central Midfielder",
+          "club": "Mohun Bagan",
+          "dob": "2000-10-17",
+          "overall": 72
+        },
+        {
+          "id": 1101203,
+          "name": "Ayush Dev Chhetri",
+          "position": "MF",
+          "role": "Central Midfielder",
+          "club": "FC Goa",
+          "dob": "2003-04-16",
+          "overall": 66
+        },
+        {
+          "id": 1101204,
+          "name": "Jeakson Singh Thounaojam",
+          "position": "MF",
+          "role": "Defensive Midfielder",
+          "club": "East Bengal",
+          "dob": "2001-06-21",
+          "overall": 68
+        },
+        {
+          "id": 1101205,
+          "name": "Brandon Fernandes",
+          "position": "MF",
+          "role": "Attacking Midfielder",
+          "club": "Mumbai City",
+          "dob": "1994-09-20",
+          "overall": 71
+        },
+        {
+          "id": 1101206,
+          "name": "Brison Fernandes",
+          "position": "MF",
+          "role": "Central Midfielder",
+          "club": "FC Goa",
+          "dob": "2001-04-17",
+          "overall": 66
+        },
+        {
+          "id": 1101207,
+          "name": "Liston Colaco",
+          "position": "MF",
+          "role": "Left Winger",
+          "club": "Mohun Bagan",
+          "dob": "1998-11-12",
+          "overall": 71
+        },
+        {
+          "id": 1101208,
+          "name": "Naorem Mahesh Singh",
+          "position": "MF",
+          "role": "Attacking Midfielder / Winger",
+          "club": "East Bengal",
+          "dob": "1999-03-01",
+          "overall": 70
+        },
+        {
+          "id": 1101209,
+          "name": "Ashique Kuruniyan",
+          "position": "MF",
+          "role": "Left Winger / Wing-back",
+          "club": "Mohun Bagan",
+          "dob": "1997-06-17",
+          "overall": 70
+        },
+        {
+          "id": 1101210,
+          "name": "Lallianzuala Chhangte",
+          "position": "MF",
+          "role": "Right Winger",
+          "club": "Mumbai City",
+          "dob": "1997-08-06",
+          "overall": 72
+        },
+        {
+          "id": 1101211,
+          "name": "Farukh Choudhary",
+          "position": "MF",
+          "role": "Left Winger / Forward",
+          "club": "Chennaiyin FC",
+          "dob": "1996-11-08",
+          "overall": 68
+        },
+
+        {
+          "id": 1101301,
+          "name": "Sunil Chhetri",
+          "position": "FW",
+          "role": "Centre Forward",
+          "club": "Bengaluru FC",
+          "dob": "1984-08-03",
+          "overall": 75
+        },
+        {
+          "id": 1101302,
+          "name": "Manvir Singh",
+          "position": "FW",
+          "role": "Right Winger / Striker",
+          "club": "Mohun Bagan",
+          "dob": "1995-11-06",
+          "overall": 70
+        },
+        {
+          "id": 1101303,
+          "name": "Irfan Yadwad",
+          "position": "FW",
+          "role": "Centre Forward",
+          "club": "Chennaiyin FC",
+          "dob": "2001-06-19",
+          "overall": 67
+        }
+      ]
     }
-  ],
-  "transfers": [],
-  "notes_for_editors": {
-    "how_to_expand": "Add players to the 'players' array, set club id to match a club in 'clubs'. Increase 'squad_size' in club if you add more players. Values are in game currency units.",
-    "tips": [
-      "If SM26 rejects the pack, verify the JSON is valid and the filename is exactly 'isl_datapack.json'.",
-      "To add images/icons, upload them to the repo and reference their raw github URLs in a future field (not required).",
-      "For best results create a new game save after adding the data pack."
-    ]
-  }
+  ]
 }
