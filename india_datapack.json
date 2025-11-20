@@ -1,1 +1,299 @@
+{
+  "PlayerData": [
+    {
+      "ID": 1101001,
+      "Forename": "Gurpreet Singh",
+      "Surname": "Sandhu",
+      "Position": "GK",
+      "DOB": "1992-02-03",
+      "Rating": 73,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Gurpreet+Singh+Sandhu"
+    },
+    {
+      "ID": 1101002,
+      "Forename": "Amrinder",
+      "Surname": "Singh",
+      "Position": "GK",
+      "DOB": "1993-05-27",
+      "Rating": 70,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Amrinder+Singh+footballer"
+    },
+    {
+      "ID": 1101003,
+      "Forename": "Gurmeet",
+      "Surname": "Singh",
+      "Position": "GK",
+      "DOB": "1999-12-03",
+      "Rating": 69,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Gurmeet+Singh+goalkeeper+India"
+    },
 
+    {
+      "ID": 1101101,
+      "Forename": "Rahul",
+      "Surname": "Bheke",
+      "Position": "RB",
+      "DOB": "1990-12-06",
+      "Rating": 69,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Rahul+Bheke"
+    },
+    {
+      "ID": 1101102,
+      "Forename": "Asish",
+      "Surname": "Rai",
+      "Position": "RB",
+      "DOB": "1999-01-27",
+      "Rating": 67,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Asish+Rai+footballer"
+    },
+    {
+      "ID": 1101103,
+      "Forename": "Boris Singh",
+      "Surname": "Thangjam",
+      "Position": "RB",
+      "DOB": "2000-01-03",
+      "Rating": 66,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Boris+Singh+Thangjam"
+    },
+    {
+      "ID": 1101104,
+      "Forename": "Sandesh",
+      "Surname": "Jhingan",
+      "Position": "CB",
+      "DOB": "1993-07-21",
+      "Rating": 72,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Sandesh+Jhingan"
+    },
+    {
+      "ID": 1101105,
+      "Forename": "Hmingthan",
+      "Surname": "Mawia",
+      "Position": "CB",
+      "DOB": "2000-05-31",
+      "Rating": 67,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Hmingthanmawia+football"
+    },
+    {
+      "ID": 1101106,
+      "Forename": "Mehtab",
+      "Surname": "Singh",
+      "Position": "CB",
+      "DOB": "1998-06-05",
+      "Rating": 68,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Mehtab+Singh+defender"
+    },
+    {
+      "ID": 1101107,
+      "Forename": "Chinglensana",
+      "Surname": "Singh",
+      "Position": "CB",
+      "DOB": "1996-11-23",
+      "Rating": 68,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Chinglensana+Singh+footballer"
+    },
+    {
+      "ID": 1101108,
+      "Forename": "Subhasish",
+      "Surname": "Bose",
+      "Position": "LB",
+      "DOB": "1995-08-18",
+      "Rating": 69,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Subhasish+Bose+footballer"
+    },
+    {
+      "ID": 1101109,
+      "Forename": "Naorem Roshan",
+      "Surname": "Singh",
+      "Position": "LB",
+      "DOB": "1999-02-02",
+      "Rating": 68,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Naorem+Roshan+Singh"
+    },
+
+    {
+      "ID": 1101201,
+      "Forename": "Suresh Singh",
+      "Surname": "Wangjam",
+      "Position": "DM",
+      "DOB": "2000-08-07",
+      "Rating": 70,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Suresh+Singh+Wangjam"
+    },
+    {
+      "ID": 1101202,
+      "Forename": "Lalengmawia",
+      "Surname": "Apuia",
+      "Position": "CM",
+      "DOB": "2000-10-17",
+      "Rating": 72,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Lalengmawia+Apuia"
+    },
+    {
+      "ID": 1101203,
+      "Forename": "Ayush Dev",
+      "Surname": "Chhetri",
+      "Position": "CM",
+      "DOB": "2003-04-16",
+      "Rating": 66,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Ayush+Dev+Chhetri"
+    },
+    {
+      "ID": 1101204,
+      "Forename": "Jeakson",
+      "Surname": "Singh",
+      "Position": "DM",
+      "DOB": "2001-06-21",
+      "Rating": 68,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Jeakson+Singh"
+    },
+    {
+      "ID": 1101205,
+      "Forename": "Brandon",
+      "Surname": "Fernandes",
+      "Position": "AM",
+      "DOB": "1994-09-20",
+      "Rating": 71,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Brandon+Fernandes"
+    },
+    {
+      "ID": 1101206,
+      "Forename": "Brison",
+      "Surname": "Fernandes",
+      "Position": "CM",
+      "DOB": "2001-04-17",
+      "Rating": 66,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Brison+Fernandes+footballer"
+    },
+    {
+      "ID": 1101207,
+      "Forename": "Liston",
+      "Surname": "Colaco",
+      "Position": "LW",
+      "DOB": "1998-11-12",
+      "Rating": 71,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Liston+Colaco"
+    },
+    {
+      "ID": 1101208,
+      "Forename": "Naorem Mahesh",
+      "Surname": "Singh",
+      "Position": "RW",
+      "DOB": "1999-03-01",
+      "Rating": 70,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Naorem+Mahesh+Singh"
+    },
+    {
+      "ID": 1101209,
+      "Forename": "Ashique",
+      "Surname": "Kuruniyan",
+      "Position": "LM",
+      "DOB": "1997-06-17",
+      "Rating": 70,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Ashique+Kuruniyan"
+    },
+    {
+      "ID": 1101210,
+      "Forename": "Lallianzuala",
+      "Surname": "Chhangte",
+      "Position": "RM",
+      "DOB": "1997-08-06",
+      "Rating": 72,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Lallianzuala+Chhangte"
+    },
+    {
+      "ID": 1101211,
+      "Forename": "Farukh",
+      "Surname": "Choudhary",
+      "Position": "LW",
+      "DOB": "1996-11-08",
+      "Rating": 68,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Farukh+Choudhary"
+    },
+
+    {
+      "ID": 1101301,
+      "Forename": "Sunil",
+      "Surname": "Chhetri",
+      "Position": "FW",
+      "DOB": "1984-08-03",
+      "Rating": 75,
+      "ClubID": 1101,
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/2/29/Sunil_Chhetri_%28cropped%29.jpg"
+    },
+    {
+      "ID": 1101302,
+      "Forename": "Manvir",
+      "Surname": "Singh",
+      "Position": "CF",
+      "DOB": "1995-11-06",
+      "Rating": 70,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Manvir+Singh+football"
+    },
+    {
+      "ID": 1101303,
+      "Forename": "Irfan",
+      "Surname": "Yadwad",
+      "Position": "CF",
+      "DOB": "2001-06-19",
+      "Rating": 67,
+      "ClubID": 1101,
+      "ImageURL": "https://www.google.com/search?tbm=isch&q=Irfan+Yadwad"
+    }
+  ],
+
+  "ClubData": [
+    {
+      "ID": 1101,
+      "Name": "India National Team",
+      "ShortName": "IND",
+      "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Indian_team.jpg"
+    }
+  ],
+
+  "LeagueData": [
+    {
+      "ID": 28,
+      "Name": "International Fixtures",
+      "ImageURL": ""
+    }
+  ],
+
+  "CupData": [
+    {
+      "ID": 2,
+      "Name": "International Cup",
+      "ImageURL": ""
+    }
+  ],
+
+  "StadiumData": [
+    {
+      "ID": 1,
+      "Name": "Vivekananda Yuba Bharati Stadium"
+    }
+  ]
+}
